@@ -73,6 +73,14 @@ p {
     font-size: 15px;
 
 }
+#minsco {
+    color: white;
+    font-weight: bold;
+}
+#hrsco {
+    color: white;
+    font-weight: bold;
+}
 .reset-btn {
     margin-left: 2px;
     background-color: darkkhaki;
